@@ -1,1 +1,1 @@
-console.log("Hello Github Users! ");
+console.log("I just made a pull request to the admin");
